@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil Steve 😁
+## Bem-vindo(a) ao perfil de Steve 😁
 
  <div>
    <a href="https://github.com/LaimnX">
